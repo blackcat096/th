@@ -89,3 +89,8 @@ Then simply contact us at support group.
 - PyTgCalls
 
 ~ Some pirro's thinking that it's a kang of [YukkiMusicBot](https://t.me/TheYukki) for their kind information, This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork YukkiMusicBot wont exist. YukkiMusicBot is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of some users.
+
+
+<h4>Click the button below to deploy team Shadow on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/santhumusic/teamshadow-1"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+
